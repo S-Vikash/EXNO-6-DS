@@ -210,4 +210,4 @@ sns.kdeplot(data=tips, x='total_bill', hue='time', multiple='fill', linewidth=3,
 
 
 # Result:
- Include your result here
+Thus Performed Data Visualization using seaborn python library for the given datas.
